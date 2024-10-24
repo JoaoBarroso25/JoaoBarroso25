@@ -7,7 +7,7 @@
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoBarroso25&show_icons=true&theme=radical)](https://github.com/JoaoBarroso25)
+
 
 ## Top Languages
 
