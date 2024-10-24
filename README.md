@@ -9,7 +9,7 @@
 🚀   Interested in developing innovative solutions using AI and scalable architectures  
 
 
-<h3>🛠 &nbsp;Top Languages and Tools</h3> 
+<h3>🛠 &nbsp;Top Languages and IDEs</h3> 
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; 
