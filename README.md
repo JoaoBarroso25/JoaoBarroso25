@@ -5,9 +5,5 @@
 <br><br>  <!-- This adds extra spacing between the sections -->
 <br><br>  <!-- This adds extra spacing between the sections -->
 <br><br>  <!-- This adds extra spacing between the sections -->
-<br><br>  <!-- This adds extra spacing between the sections -->
-<br><br>  <!-- This adds extra spacing between the sections -->
-<br><br>  <!-- This adds extra spacing between the sections -->
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoBarroso25&show_icons=true&theme=radical)](https://github.com/JoaoBarroso25)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBarroso25&layout=compact&theme=radical)](https://github.com/JoaoBarroso25)
