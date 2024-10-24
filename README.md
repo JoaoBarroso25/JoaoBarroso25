@@ -1,5 +1,8 @@
 <p align="center"> </p> <h1> Hey, I'm João Barroso 👋 </h1> <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-🎓   Bachelor's/Master's Degree in Engineering Uminho
+🎓   Bachelor's/Master's Degree in Engineering @ University of Minho (Uminho)  
+👨‍💻   I'm 22 years old, passionate about Artificial Intelligence (AI) and Distributed Systems.  
+💡   Always eager to learn new technologies and solve complex problems.  
+🚀   Interested in developing innovative solutions using AI and scalable architectures.  
 
 <h3>🛠 &nbsp;Top Languages</h3> <div> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp; </div>
 
